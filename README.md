@@ -1,5 +1,5 @@
 # FrackMan
-Coded by Jiachen Yang in UCLA CS32 Intro to Programming II.
+Coded by Jiachen Yang in UCLA CS32 Intro to Programming II, using mostly C++.
 
 This is a game called "FrackMan".
 
